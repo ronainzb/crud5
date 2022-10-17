@@ -80,7 +80,7 @@ class Kampus extends CI_Controller{
             'nama' => $nama,
             'alamat' => $alamat,
             'pekerjaan' => $pekerjaan,
-            'foto' => $foto
+            'foto' => $foto 
 
         );
 
